@@ -33,6 +33,8 @@ valores repeticiones de la moda para los datos categóricos.
 [**Solucion**]
 
 Para calcular la media, se debe hacer uso de la siguiente formula:
+
+
 $$
 \bar{x} = \frac{1}{n} \sum_{i=1}^{n} x_i
 $$
