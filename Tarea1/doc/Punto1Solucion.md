@@ -139,6 +139,6 @@ Empleando la tabla ordenada de la mediana podemos contar con mayor facilidad y p
 
 Tener en mente:
 
-En esre caso las tres variables X1,X2 y X3 presentan un tipo de moda llamado **"unimodal"** en la cuál solo un valor posee la mayor cantidad de apariciones.  
+En este caso las tres variables X1,X2 y X3 presentan un tipo de moda llamado **"unimodal"** en la cuál solo un valor presenta la mayor cantidad de apariciones.  
 
 Para calcular la desviación estandar, in progress...
