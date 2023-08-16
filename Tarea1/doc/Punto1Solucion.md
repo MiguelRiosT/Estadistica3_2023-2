@@ -112,6 +112,8 @@ Se procede a ordenar los números de menor a mayor
 Con los datos ya ordenados de menor a mayor, tenemos un n=21 
 
 por lo tanto, aplicaremos 
+
+
 $$
  \frac{n+1}{2} 
 $$
