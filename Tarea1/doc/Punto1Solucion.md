@@ -66,7 +66,77 @@ x̄3 = 659/21 = 31.380
   | 2.333  | 4.428  | 31.380  |
 
 
+Para calcular la mediana, se deben tener ciertas consideraciones:
+
+- Se debe ordenar el conjunto de números de menor a mayor
+
+- Si el conjunto de números es par 
+
+$$
+  \text{Mediana} = \frac{1}{2} \cdot (x_{\frac{n}{2}} + x_{\frac{n}{2}+1})
+$$
 
 
+- Si el conjunto de números es impar
+
+$$
+ \text{Mediana}= \frac{n+1}{2} 
+$$
+
+Se procede a ordenar los números de menor a mayor
+
+|X1|X2|X3|
+|--|--|--|
+| 0 | 0 | 1 |
+| 0 | 1 | 5 |
+| 1 | 2 | 17 |
+| 1 | 2 | 17 |
+| 1 | 2 | 17 |
+| 1 | 3 | 18 |
+| 1 | 3 | 18 |
+| 1 | 3 | 19 |
+| 2 | 3 | 24 |
+| 2 | 3 | 24 |
+| **2** |**4** | **28** |
+| 3 | 4 | 30 |
+| 3 | 5 | 32 |
+| 3 | 6 | 41 |
+| 3 | 6 | 42 |
+| 3 | 6 | 44 |
+| 4 | 6 | 44 |
+| 4 | 8 | 56 |
+| 4 | 8 | 56 |
+| 5 | 9 | 62 |
+| 5 | 9 | 64 |
+
+Con los datos ya ordenados de menor a mayor, tenemos un n=21 
+
+por lo tanto, aplicaremos 
+$$
+ \frac{n+1}{2} 
+$$
+
+(21+1)/2=11, de los datos ordenados la mediana será la que se encuentré en la posición 11
+
+**Medianas obtenidas**
+  
+  | X1| X2| X3|
+  |---|---|---|
+  | 2  | 4  | 28  |
 
 
+Para calcular la moda, se depende directamente de los datos y la frecuencia con la que cada uno aparece.
+
+Empleando la tabla ordenada de la mediana podemos contar con mayor facilidad y por ende determinamos que:
+
+**Modas obtenidas**
+  
+  | X1| X2| X3|
+  |---|---|---|
+  | 1  | 3  | 17  |
+
+Tener en mente:
+
+En esre caso las tres variables X1,X2 y X3 presentan un tipo de moda llamado **"unimodal"** en la cuál solo un valor posee la mayor cantidad de apariciones.  
+
+Para calcular la desviación estandar, in progress...
