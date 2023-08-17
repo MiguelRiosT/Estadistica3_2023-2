@@ -156,7 +156,11 @@ Donde:
 - n: Es el número de elementos en el conjunto.
 
 
-**NOTA:** para el desarrollo de este punto no se usará la formula de varianza cuando hay una muestra puesto que poseemos la población como tal.
+**NOTA:** 
+
+Cuando se calcula la desviación estándar estamos midiendo la dispersión o variabilidad de un conjunto de datos con respecto a su promedio.
+
+para el desarrollo de este punto no se usará la formula de varianza cuando hay una muestra puesto que poseemos la población como tal.
 
 Primero partamos del valor de la media que ya se habia encontrado junto con el valor n:
 
@@ -255,3 +259,34 @@ $$
 
 
 1.2 Dibujar un Boxplot a mano:
+
+Para dibujar un boxplot es necesario tener en mente los siguientes aspectos:
+
+- Ordenar los datos de menor a mayor.
+
+- Valor mínimo: es el valor más pequeño del conjunto de datos.
+
+- Valor máximo: es el valor más alto del conjunto de datos.
+
+- Q1: Es el valor que divide los datos en el 25% inferior. El 25% de los datos están por debajo de este valor.
+
+- Q2: equivalente a la mediana
+
+- Q3: Es el valor que divide los datos en el 25% superior. El 75% de los datos están por debajo de este valor.
+
+- IQR(Interquartile Range) - RI(Rango intercuatilico): Es el resultado de Q3-Q1
+
+El IQR mide el rango en el que se encuentra el 50% central de los datos, es una medida útil para entender cómo se distribuyen los datos alrededor de la mediana y cómo se alejan de los valores extremos.
+
+Limites: Nos ayudan a identificar con más precisión aquellos valores que son atípicos.
+
+
+- Límite Inferior del Bigote = Q1 - 1.5 * IQR. 
+
+- Límite Superior del Bigote = Q3 + 1.5 * IQR.
+
+NOTA: si un conjunto de datos no posee algun valor que supere los limites anteriormente mencionados los bigotes del BoxPlot solo se mostrarán hasta los valores minimos y máximos de los datos.
+
+
+
+
