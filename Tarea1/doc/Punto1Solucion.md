@@ -254,4 +254,4 @@ $$
 <br>
 
 
-1.2
+1.2 Dibujar un Boxplot a mano:
