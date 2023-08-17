@@ -145,9 +145,7 @@ Para calcular la desviación estandar, se debe primero encontrar el valor de la 
 
 
 $$
-
 \sigma^2 = {\frac{\sum_{i=1}^{n}(x_i - \bar{x})^2}{n}}
-
 $$
 
 Donde:
@@ -167,23 +165,17 @@ X̄1= 2.333, n=21
 luego, calculemos la varianza
 
 $$
-
 \sigma^2=\frac{(4-2.333)^2 + (2-2.333)^2 + (2+1.333)^2+(3-2.333)^2 + (1-2.333)^2 + (3+1.333)^2+(3-2.333)^2 + (0-2.333)^2 + (1+1.333)^2+(0-2.333)^2 + (5-2.333)^2 + (1+1.333)^2+(2-2.333)^2 + (1-2.333)^2 + (3+1.333)^2+(4-2.333)^2 + (4-2.333)^2 + (3+1.333)^2+(5-2.333)^2 + (1-2.333)^2 + (1+1.333)^2}{21}
-
 $$
 
 $$
-
 \sigma^2 = 2.222
-
 $$
 
 teniendo la varianza, la desviación estándar es la raíz cuadrada de la varianza por lo tanto la desviación estándar para X1 es
 
 $$
-
 \sigma = 1.4906
-
 $$
 
 
