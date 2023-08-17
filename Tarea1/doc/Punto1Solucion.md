@@ -218,3 +218,40 @@ $$
   |---|---|---|
   | 1.490  | 2.555  | 17.742  |
 
+<br>
+<br>
+
+1.1 **Resultados obtenidos**
+
+**Medias obtenidas**
+  
+  | X̄1| X̄2| X̄3|
+  |---|---|---|
+  | 2.333  | 4.428  | 31.380  |
+
+**Medianas obtenidas**
+  
+  | X1| X2| X3|
+  |---|---|---|
+  | 2  | 4  | 28  |
+
+**Modas obtenidas**
+  
+  | X1| X2| X3|
+  |---|---|---|
+  | 1  | 3  | 17  |
+
+**Desviaciones estándar obtenidas**
+  
+  | X1| X2| X3|
+  |---|---|---|
+  | 1.490  | 2.555  | 17.742  |
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+1.2
