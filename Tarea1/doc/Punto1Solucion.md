@@ -141,4 +141,50 @@ Tener en mente:
 
 En este caso las tres variables X1,X2 y X3 presentan un tipo de moda llamado **"unimodal"** en la cuál solo un valor presenta la mayor cantidad de apariciones.  
 
-Para calcular la desviación estandar, in progress...
+Para calcular la desviación estandar, se debe primero encontrar el valor de la varianza empleando la siguiente formula en el caso de una población:
+
+
+$$
+
+\sigma^2 = {\frac{\sum_{i=1}^{n}(x_i - \bar{x})^2}{n}}
+
+$$
+
+Donde:
+- xᵢ: Son los valores individuales del conjunto de datos.
+
+- x̄: Media de los datos.
+
+- n: Es el número de elementos en el conjunto.
+
+
+**NOTA:** para el desarrollo de este punto no se usará la formula de varianza cuando hay una muestra puesto que poseemos la población como tal.
+
+Primero partamos del valor de la media que ya se habia encontrado junto con el valor n:
+
+X̄1= 2.333, n=21
+
+luego, calculemos la varianza
+
+$$
+
+\sigma^2=\frac{(4-2.333)^2 + (2-2.333)^2 + (2+1.333)^2+(3-2.333)^2 + (1-2.333)^2 + (3+1.333)^2+(3-2.333)^2 + (0-2.333)^2 + (1+1.333)^2+(0-2.333)^2 + (5-2.333)^2 + (1+1.333)^2+(2-2.333)^2 + (1-2.333)^2 + (3+1.333)^2+(4-2.333)^2 + (4-2.333)^2 + (3+1.333)^2+(5-2.333)^2 + (1-2.333)^2 + (1+1.333)^2}{21}
+
+$$
+
+$$
+
+\sigma^2 = 2.222
+
+$$
+
+teniendo la varianza, la desviación estándar es la raíz cuadrada de la varianza por lo tanto la desviación estándar para X1 es
+
+$$
+
+\sigma = 1.4906
+
+$$
+
+
+
