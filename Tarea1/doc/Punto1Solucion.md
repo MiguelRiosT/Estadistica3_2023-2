@@ -175,8 +175,46 @@ $$
 teniendo la varianza, la desviación estándar es la raíz cuadrada de la varianza por lo tanto la desviación estándar para X1 es
 
 $$
-\sigma = 1.4906
+\sigma = 1.490
 $$
 
 
+Para X2: usando X̄2= 4.428, n=21
+
+$$
+\sigma^2=\frac{(4-4.428)^2 + (3-4.428)^2 + (4+4.428)^2+ ... +(9-4.428)^2 + (2-4.428)^2 + (2+4.428)^2}{21}
+$$
+
+$$
+\sigma^2 = 6.530
+$$
+
+
+$$
+\sigma = 2.555
+$$
+
+
+
+
+Para X3: usando X̄3=31.380, n=21
+
+$$
+\sigma^2=\frac{(28-31.380)^2 + (24-31.380)^2 + (30+31.380)^2+ ... +(64-31.380)^2 + (17-31.380)^2 + (17+31.380)^2}{21}
+$$
+
+$$
+\sigma^2 = 314.807
+$$
+
+
+$$
+\sigma = 17.742
+$$
+
+**Desviaciones estándar obtenidas**
+  
+  | X1| X2| X3|
+  |---|---|---|
+  | 1.490  | 2.555  | 17.742  |
 
