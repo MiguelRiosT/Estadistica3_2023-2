@@ -287,6 +287,23 @@ Limites: Nos ayudan a identificar con más precisión aquellos valores que son a
 
 NOTA: si un conjunto de datos no posee algun valor que supere los limites anteriormente mencionados los bigotes del BoxPlot solo se mostrarán hasta los valores minimos y máximos de los datos.
 
+<br>
+
+**Gráfico Boxplot para X1**
+
+Q1 = 1 ,  Q2 = 2, Q3 = , MIN = 0, MAX = 5, IQR = 2.5, LIM INF = -2.75, LIM SUP = 7.25
+
+![BoxPlotX1](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/X1.jpg)
 
 
+<br>
 
+**Gráfico Boxplot para X2**
+
+Q1 =  ,  Q2 =, Q3 = , MIN = , MAX = , IQR = , LIM INF = , LIM SUP =
+
+<br>
+
+**Gráfico Boxplot para X3**
+
+Q1 =  ,  Q2 =, Q3 = , MIN = , MAX = , IQR = , LIM INF = , LIM SUP =
