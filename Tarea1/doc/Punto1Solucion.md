@@ -291,7 +291,7 @@ NOTA: si un conjunto de datos no posee algun valor que supere los limites anteri
 
 **Gráfico Boxplot para X1**
 
-Q1 = 1 ,  Q2 = 2, Q3 = , MIN = 0, MAX = 5, IQR = 2.5, LIM INF = -2.75, LIM SUP = 7.25
+Q1= 1 ,  Q2= 2 , Q3= 3.5 , MIN= 0 , MAX= 5 , IQR= 2.5 , LIM INF= -2.75 , LIM SUP= 7.25
 
 ![BoxPlotX1](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/X1.jpg)
 
@@ -300,10 +300,22 @@ Q1 = 1 ,  Q2 = 2, Q3 = , MIN = 0, MAX = 5, IQR = 2.5, LIM INF = -2.75, LIM SUP =
 
 **Gráfico Boxplot para X2**
 
-Q1 =  ,  Q2 =, Q3 = , MIN = , MAX = , IQR = , LIM INF = , LIM SUP =
+Q1= 2.5 ,  Q2= 4 , Q3= 6 , MIN= 0 , MAX= 9 , IQR= 3.5 , LIM INF= -2.75 , LIM SUP= 11.25
+
+![BoxPlotX2](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/X2.jpg)
 
 <br>
 
 **Gráfico Boxplot para X3**
 
-Q1 =  ,  Q2 =, Q3 = , MIN = , MAX = , IQR = , LIM INF = , LIM SUP =
+Q1= 17.5 ,  Q2= 28 , Q3= 44 , MIN= 1 , MAX= 64 , IQR= 26.5 , LIM INF= -22.25 , LIM SUP= 83.75
+
+
+![BoxPlotX3](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/X3.jpg)
+
+<br>
+<br>
+<br>
+<br>
+
+1.3 Calcular covarianza entre las dos variables X1 y X2
