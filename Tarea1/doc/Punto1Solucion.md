@@ -323,3 +323,12 @@ Q1= 17.5 ,  Q2= 28 , Q3= 44 , MIN= 1 , MAX= 64 , IQR= 26.5 , LIM INF= -22.25 , L
 Se emplea la formula de la covarianza:
 
 ![Formula covarianza](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/FormulaCov.png)
+
+En dónde n será el número de datos en el conjunto 
+
+Se adjuntan los calculos realizados:
+
+
+![CalculosCovarianza](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/CalculosCovarianza.png)
+
+**Cov(X1,X2) = 3.571**
