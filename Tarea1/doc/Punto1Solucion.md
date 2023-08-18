@@ -336,3 +336,5 @@ Se adjuntan los calculos realizados:
 1.4 ¿Cuál es la correlación entre X1 y X2?
 
 Se emplea la siguiente fórmula de correlación:
+
+![Formula correlacion](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/FormulaCorrelacion.png)
