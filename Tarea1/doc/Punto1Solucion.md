@@ -319,3 +319,7 @@ Q1= 17.5 ,  Q2= 28 , Q3= 44 , MIN= 1 , MAX= 64 , IQR= 26.5 , LIM INF= -22.25 , L
 <br>
 
 1.3 Calcular covarianza entre las dos variables X1 y X2
+
+Se emplea la formula de la covarianza:
+
+![Formula covarianza](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/FormulaCov.png)
