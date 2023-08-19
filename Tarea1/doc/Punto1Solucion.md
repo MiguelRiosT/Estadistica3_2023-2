@@ -293,7 +293,7 @@ NOTA: si un conjunto de datos no posee algun valor que supere los limites anteri
 
 Q1= 1 ,  Q2= 2 , Q3= 3.5 , MIN= 0 , MAX= 5 , IQR= 2.5 , LIM INF= -2.75 , LIM SUP= 7.25
 
-![BoxPlotX1](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/X1.jpg)
+![BoxPlotX1](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/BoxPlotX1.jpg)
 
 
 <br>
@@ -302,7 +302,7 @@ Q1= 1 ,  Q2= 2 , Q3= 3.5 , MIN= 0 , MAX= 5 , IQR= 2.5 , LIM INF= -2.75 , LIM SUP
 
 Q1= 2.5 ,  Q2= 4 , Q3= 6 , MIN= 0 , MAX= 9 , IQR= 3.5 , LIM INF= -2.75 , LIM SUP= 11.25
 
-![BoxPlotX2](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/X2.jpg)
+![BoxPlotX2](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/BoxPlotX2.jpg)
 
 <br>
 
@@ -311,7 +311,7 @@ Q1= 2.5 ,  Q2= 4 , Q3= 6 , MIN= 0 , MAX= 9 , IQR= 3.5 , LIM INF= -2.75 , LIM SUP
 Q1= 17.5 ,  Q2= 28 , Q3= 44 , MIN= 1 , MAX= 64 , IQR= 26.5 , LIM INF= -22.25 , LIM SUP= 83.75
 
 
-![BoxPlotX3](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/X3.jpg)
+![BoxPlotX3](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/BoxPlotX3.jpg)
 
 <br>
 <br>
