@@ -341,4 +341,6 @@ Se emplea la siguiente fórmula de correlación:
 
 Se adjuntan los calculos realizados:
 
-![CalculosCorrelacion]()
+![CalculosCorrelacion](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/CalculosCorrelacion.png)
+
+se puede observar que...
