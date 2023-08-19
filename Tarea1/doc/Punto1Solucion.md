@@ -341,7 +341,7 @@ Se emplea la siguiente fórmula de correlación:
 
 Se adjuntan los calculos realizados:
 
-![CalculosCorrelacion1](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/CalculosCorrelacion.png)
+![CalculosCorrelacion1](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/Calculos1Correlacion.png)
 
 **Cor(X1,X2) = 0.9375**
 
@@ -351,7 +351,7 @@ Se valida el calculo de la correlación empleando la siguiente formula:
 
 Se adjuntan los calculos realizados con la segunda formula:
 
-![CalculosCorrelacion2](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/CalculosCorrelacion.png)
+![CalculosCorrelacion2](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/Calculos2Correlacion.png)
 
 También se obtiene:
 **Cor(X1,X2) = 0.9375**
