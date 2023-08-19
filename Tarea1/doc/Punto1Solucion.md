@@ -238,7 +238,7 @@ $$
 <br>
 <br>
 
-1.1 **Resultados obtenidos**
+## RESULTADOS OBTENIDOS PUNTO 1.1
 
 **Medias obtenidas**
   
