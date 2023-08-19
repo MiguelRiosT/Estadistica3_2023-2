@@ -295,7 +295,7 @@ Se adjuntan calculos para X1:
 
 ![CalculosBoxPlotX1](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/CalculosBoxPlotX1.jpg)
 
-Q1= 1 ,  Q2= 2 , Q3= 3.5 , MIN= 0 , MAX= 5 , IQR= 2.5 , LIM INF= -2.75 , LIM SUP= 7.25
+Gráfico de Boxplot para X1:
 
 ![BoxPlotX1](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/BoxPlotX1.jpg)
 
