@@ -465,5 +465,11 @@ Se adjunta procedimiento realizado:
 
 <br>
 
-**Convergencia **
+**Convergencia**
+
+Se observa la convergencia en los valores de la iteración 5 y las nuevas etiquetas, al no haber variación o algún cambios.
+
+Resaltar también que entre la iteración 4 y 5 los centroides no presentan cambios.
+
+![KM5](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/KM5.png)
 
