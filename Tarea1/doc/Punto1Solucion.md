@@ -334,6 +334,12 @@ Se adjuntan calculos para X3:
 ![BoxPlotX3](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/BoxPlotX3.jpg)
 
 <br>
+
+**Observación:** De los gráficos boxplot calculados, no se encontraron valores atípicos que superaran los limites inferior o superior.
+
+
+
+<br>
 <br>
 <br>
 <br>
