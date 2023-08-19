@@ -289,31 +289,34 @@ NOTA: si un conjunto de datos no posee algun valor que supere los limites anteri
 
 <br>
 
-**Gráfico Boxplot para X1**
+
 
 Se adjuntan calculos para X1:
 
 ![CalculosBoxPlotX1](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/CalculosBoxPlotX1.jpg)
 
-Gráfico de Boxplot para X1:
+**Gráfico Boxplot para X1**
 
 ![BoxPlotX1](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/BoxPlotX1.jpg)
 
 
 <br>
 
-**Gráfico Boxplot para X2**
+Se adjuntan calculos para X2:
 
-Q1= 2.5 ,  Q2= 4 , Q3= 6 , MIN= 0 , MAX= 9 , IQR= 3.5 , LIM INF= -2.75 , LIM SUP= 11.25
+![CalculosBoxPlotX2](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/CalculosBoxPlotX2.jpg)
+
+**Gráfico Boxplot para X2**
 
 ![BoxPlotX2](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/BoxPlotX2.jpg)
 
 <br>
 
+Se adjuntan calculos para X3:
+
+![CalculosBoxPlotX3](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/CalculosBoxPlotX3.jpg)
+
 **Gráfico Boxplot para X3**
-
-Q1= 17.5 ,  Q2= 28 , Q3= 44 , MIN= 1 , MAX= 64 , IQR= 26.5 , LIM INF= -22.25 , LIM SUP= 83.75
-
 
 ![BoxPlotX3](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/BoxPlotX3.jpg)
 
