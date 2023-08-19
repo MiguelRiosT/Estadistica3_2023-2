@@ -386,5 +386,23 @@ es decir, cuando X1 cambia genera un cambio positivo en X2.
 1.5 Explicar la relación entre covarianza y correlación
 
 
+Partamos primero por entender ambas por separado:
+
+- **covarianza** es una medida numérica que mide como 2 variables varían de
+forma conjunta.
+
+La covarianza mide cómo dos variables varían juntas, en términos de si tienden a aumentar o disminuir juntas
+
+- **correlación** permite investigar las relación lineal entre dos variables.
+
+La correlación mide la relación lineal entre dos variables, considerando tanto la dirección como la fuerza de la relación.
+
+En base a esto, se puede decir que la relación entre covarianza y correlación se centra en que la correlación se calcula a partir de la covarianza, pero se considera más preciso el valor arrojado por la correlación.
+
+
+1.6 Usando la tabla de datos, calcule el resultado del algoritmo K-means con 3 grupos, es decir 3 clusters.
+
+**Dudas sobre cómo se realiza con k=3**
+
 
 
