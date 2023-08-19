@@ -32,6 +32,8 @@ valores repeticiones de la moda para los datos categóricos.
 
 [**Solucion**]
 
+## MEDIA
+
 Para calcular la media, se debe hacer uso de la siguiente formula:
 
 
@@ -65,6 +67,9 @@ x̄3 = 659/21 = 31.380
   |---|---|---|
   | 2.333  | 4.428  | 31.380  |
 
+<br>
+
+## MEDIANA
 
 Para calcular la mediana, se deben tener ciertas consideraciones:
 
@@ -126,6 +131,9 @@ $$
   |---|---|---|
   | 2  | 4  | 28  |
 
+<br>
+
+## MODA
 
 Para calcular la moda, se depende directamente de los datos y la frecuencia con la que cada uno aparece.
 
@@ -140,6 +148,11 @@ Empleando la tabla ordenada de la mediana podemos contar con mayor facilidad y p
 Tener en mente:
 
 En este caso las tres variables X1,X2 y X3 presentan un tipo de moda llamado **"unimodal"** en la cuál solo un valor presenta la mayor cantidad de apariciones.  
+
+
+<br>
+
+## DESVIACIÓN ESTÁNDAR
 
 Para calcular la desviación estandar, se debe primero encontrar el valor de la varianza empleando la siguiente formula en el caso de una población:
 
