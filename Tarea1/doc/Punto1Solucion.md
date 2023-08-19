@@ -424,7 +424,8 @@ En base a esto, se puede decir que la relación entre covarianza y correlación 
 
 1.6 Usando la tabla de datos, calcule el resultado del algoritmo K-means con 3 grupos, es decir 3 clusters.
 
-**Dudas sobre cómo se realiza con k=3**
+Lo primero que se debe realizar es generar 21 valores random entre 0 y 3, para después ordenarlos de mayor a menor, a estos datos resultantes les llamaremos Inicialización y es con lo que se iniciará el algoritmo.
 
 
+Se adjunta procedimiento realizado:
 
