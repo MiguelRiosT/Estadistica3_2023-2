@@ -467,7 +467,7 @@ Se adjunta procedimiento realizado:
 
 **Convergencia**
 
-Se observa la convergencia en los valores de la iteración 5 y las nuevas etiquetas, al no haber variación o algún cambios.
+Se observa la convergencia en los valores de la iteración 5 y las nuevas etiquetas, al no presentarse cambios.
 
 Resaltar también que entre la iteración 4 y 5 los centroides no presentan cambios.
 
