@@ -429,4 +429,41 @@ Lo primero que se debe realizar es generar 21 valores random entre 0 y 3, para d
 
 Se adjunta procedimiento realizado:
 
+**Iniciación**
+
+![KMiniciacion](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/KMiniciacion.png)
+
+<br>
+
+**Iteración 1**
+
 ![KM1](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/KM1.png)
+
+<br>
+
+**Iteración 2**
+
+![KM2](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/KM2.png)
+
+<br>
+
+**Iteración 3**
+
+![KM3](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/KM3.png)
+
+<br>
+
+**Iteración 4**
+
+![KM4](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/KM4.png)
+
+<br>
+
+**Iteración 5**
+
+![KM5](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/KM5.png)
+
+<br>
+
+**Convergencia**
+
