@@ -371,3 +371,13 @@ Tener en mente lo siguiente:
 Se puede observar que la variable X1 explica la variabilidad de X2 y que es una relación positiva
 
 es decir, cuando X1 cambia genera un cambio positivo en X2.
+
+
+<br>
+<br>
+
+1.5 Explicar la relación entre covarianza y correlación
+
+
+
+
