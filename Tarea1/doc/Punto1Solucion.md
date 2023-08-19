@@ -429,7 +429,7 @@ Lo primero que se debe realizar es generar 21 valores random entre 0 y 3, para d
 
 Se adjunta procedimiento realizado:
 
-**Iniciación**
+**Inicialización**
 
 ![KMiniciacion](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/KMiniciacion.png)
 
