@@ -338,3 +338,7 @@ Se adjuntan los calculos realizados:
 Se emplea la siguiente fórmula de correlación:
 
 ![Formula correlacion](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/FormulaCorrelacion.png)
+
+Se adjuntan los calculos realizados:
+
+![CalculosCorrelacion]()
