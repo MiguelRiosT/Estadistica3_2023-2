@@ -337,12 +337,23 @@ Se adjuntan los calculos realizados:
 
 Se emplea la siguiente fórmula de correlación:
 
-![Formula correlacion](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/FormulaCorrelacion.png)
+![Formula correlacion1](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/Formula1Correlacion.png)
 
 Se adjuntan los calculos realizados:
 
-![CalculosCorrelacion](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/CalculosCorrelacion.png)
+![CalculosCorrelacion1](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/CalculosCorrelacion.png)
 
+**Cor(X1,X2) = 0.9375**
+
+Se valida el calculo de la correlación empleando la siguiente formula:
+
+![Formula correlacion2](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/Formula2Correlacion.png)
+
+Se adjuntan los calculos realizados con la segunda formula:
+
+![CalculosCorrelacion2](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/CalculosCorrelacion.png)
+
+También se obtiene:
 **Cor(X1,X2) = 0.9375**
 
 Tener en mente lo siguiente:
@@ -352,6 +363,10 @@ Tener en mente lo siguiente:
 - Cor= +1, > 0.4 (y depende de la variable x), explica cambios positivos
 
 - Cor= +1, <-0.4 (y depende de la variable x), explica cambios negativos
+
+<br>
+
+**Observación**
 
 Se puede observar que la variable X1 explica la variabilidad de X2 y que es una relación positiva
 
