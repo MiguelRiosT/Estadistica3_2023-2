@@ -359,6 +359,9 @@ Se adjuntan los calculos realizados:
 
 **Cov(X1,X2) = 3.571**
 
+<br>
+<br>
+
 1.4 ¿Cuál es la correlación entre X1 y X2?
 
 Se emplea la siguiente fórmula de correlación:
