@@ -343,4 +343,16 @@ Se adjuntan los calculos realizados:
 
 ![CalculosCorrelacion](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/CalculosCorrelacion.png)
 
-se puede observar que...
+**Cor(X1,X2) = 0.9375**
+
+Tener en mente lo siguiente:
+
+- Cor = 0, variables independientes.
+
+- Cor= +1, > 0.4 (y depende de la variable x), explica cambios positivos
+
+- Cor= +1, <-0.4 (y depende de la variable x), explica cambios negativos
+
+Se puede observar que la variable X1 explica la variabilidad de X2 y que es una relación positiva
+
+es decir, cuando X1 cambia genera un cambio positivo en X2.
