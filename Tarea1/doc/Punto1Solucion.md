@@ -469,7 +469,16 @@ Se adjunta procedimiento realizado:
 
 Se observa la convergencia en los valores de la iteración 5 y las nuevas etiquetas, al no presentarse cambios.
 
-Resaltar también que entre la iteración 4 y 5 los centroides no presentan cambios.
+Resaltar también que entre la iteración 4 y 5 los centroides no presentan cambios(aspecto que también se puede observar en la verificación de este ejercicio realizada en notebook).
 
 ![KMC](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/KMC.png)
 
+
+En el notebook se observan algunas iteraciones cortas pero una iteración llego a 5 también.
+
+![VERIFICACIÓNKMEANSNOTEBOOK](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/KMEANSVERIFICACION.png)
+
+
+<br>
+
+**NOTA**: En este repositorio se encuentra el excel y el notebook de verificación del K-means donde se validan los calculos presentados para el punto 1.

@@ -41,3 +41,8 @@ A continuación se adjuntan los calculos realizados:
 <br>
 
 ![8](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/Punto2/8.png)
+
+
+<br>
+
+**NOTA**: En este repositorio se encuentra el excel y el notebook donde se validan los calculos presentados en el punto 2.
