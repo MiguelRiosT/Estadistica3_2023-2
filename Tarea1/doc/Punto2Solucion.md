@@ -40,4 +40,4 @@ A continuación se adjuntan los calculos realizados:
 <br>
 <br>
 
-![8](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/Punto2/8.jpg)
+![8](https://github.com/MiguelRiosT/Estadistica3_2023-2/blob/main/Tarea1/doc/ImagenesEmpleadas/Punto2/8.png)
