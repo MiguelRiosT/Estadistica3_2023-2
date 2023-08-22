@@ -481,4 +481,4 @@ En el notebook se observan algunas iteraciones cortas pero una iteración llego 
 
 <br>
 
-**NOTA**: En este repositorio se encuentra el excel y el notebook de verificación del K-means donde se validan los calculos presentados para el punto 1.
+**NOTA**: En este repositorio se encuentra el Excel y el notebook de verificación del K-means donde se validan los calculos presentados para el punto 1.
